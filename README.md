@@ -1,24 +1,25 @@
-# README
+# OpenChruch
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*OpenChurch* is an open source church management system designed to organize all kinds of data, events and tasks related to the complexity of daily church life.
 
-Things you may want to cover:
+## Motivation
 
-* Ruby version
+The Church is a complex organism, not just on Sunday morning.
 
-* System dependencies
+- First of all it consists of people who are connect by Jesus Christ and His word.
+- The people gather at specific places and are using different resources to take steps forward.
+- Resources are e. g. rooms, inventory, songs including lyrics and sheets, etc.
+- The church members organize themselves in groups. They set goals, make decisions, share knowledge.
 
-* Configuration
+For all that *OpenChurch* shall be a platform connecting all the relevant parts of the Church.
 
-* Database creation
+---
 
-* Database initialization
+## Project setup
 
-* How to run the test suite
+This rails app connects itself to a postgres database running in a docker container. I am currently using `postgres:16.3-alpine`.
+For your dev environment to work properly, start a persistant postgres container and configure your database.yml to fit your connection.
 
-* Services (job queues, cache servers, search engines, etc.)
+That's it for now. Let's see how far we can go to provide a useful tool to all churches for free, to help them grow and work properly.
 
-* Deployment instructions
-
-* ...
+Soli Deo Gloria.
