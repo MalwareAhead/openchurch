@@ -13,7 +13,22 @@ The Church is a complex organism, not just on Sunday morning.
 
 For all that *OpenChurch* shall be a platform connecting all the relevant parts of the Church.
 
----
+## Features (for now)
+
+### 1. Members
+
+- Members are able to see, who their Brothers and Sisters are. Therefore every member gets a minimal about page.
+- Members can be managed by admins. Furthermore they need to be different roles for each member.
+
+#### More Ideas for Members
+
+- Members are able to organize in different groups (bible study groups, worship teams, etc.).
+- Members can offer all kinds of services and at the same time ask for help (e. g. helping with a move or supporting with job applications).
+
+### 2. Ministry (Tasks and Responsibilities)
+
+- An organigramm provides information about ministries, responsibilities and contacts at specific concerns.
+- Authorized staff can organize plans for "housekeeping" the church amenities and other duty rosters.
 
 ## Project setup
 
